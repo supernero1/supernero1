@@ -8,7 +8,7 @@ Mi enfoque se centra en el **rigor analítico**, la **puntualidad** y una actitu
 
 **Busco oportunidades donde pueda aplicar mis conocimientos en:**
 * Análisis y diseño de algoritmos.
-* Desarrollo de software optimizado (C/C++, Python).
+* Desarrollo de software.
 * Investigación y aplicación de nuevas tendencias tecnológicas.
 
 ---
